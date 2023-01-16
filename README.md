@@ -24,8 +24,8 @@ Desktop
 
 ### Links
 
-- Solution URL: https://github.com/Denil01/QR-code-link
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Denil01/QR-code-link)
+- Live Site URL: [Add live site URL here](https://denil01.github.io/QR-code-link/)
 
 ### Built with
 
