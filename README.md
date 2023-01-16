@@ -21,6 +21,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Desktop
 ![Capture](https://user-images.githubusercontent.com/120566642/212651148-7dda0328-b404-4d63-8cc6-3378c1a17fb1.PNG)
 
+Mobile Phone
+
+![photo_2023-01-16_13-51-21](https://user-images.githubusercontent.com/120566642/212661255-94890fa0-9d18-440d-8809-31a4d1d25d06.jpg)
 
 ### Links
 
